@@ -2,6 +2,9 @@
 
 Public-safe case study for a private organization platform.
 
+**Live websites:** [citypopup.de](https://citypopup.de) · [citypopup.nl](https://citypopup.nl)  
+**Supported domain family:** `.de`, `.ae`, `.nl`
+
 ## Overview
 
 City Popup is a multi-domain marketplace and e-commerce platform with a public website, Laravel backend/admin system, and Flutter mobile app. It supports regional/domain experiences across `.de`, `.ae`, and `.nl`, plus public product discovery, shops/domains, authentication, cart and order workflows, reviews, support, notifications, localization, and payment-related flows.
@@ -38,4 +41,3 @@ Worked across the website experience, backend APIs, admin/backend modules, Flutt
 ## Privacy
 
 The source code is private. This case study excludes private repository details, customer data, order/payment records, admin screens, internal URLs, credentials, and unsupported business metrics.
-
